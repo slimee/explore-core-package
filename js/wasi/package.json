@@ -1,0 +1,7 @@
+{
+  "name": "test-wasm",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "license": "MIT",
+  "dependencies": {}
+}
